@@ -17,7 +17,8 @@ Welcome to the Chat Application Project! This project demonstrates a basic yet f
 Before you begin, ensure you have PyQt5 installed. 
 You can install it using pip: pip install PyQt5
 
+## Screen Shots
 
 ![Login Window](loginSS.png)
 ![Chat Window 1](ChatSS1.png)
-![Chat Window 2](ChatSS1.png)
+![Chat Window 2](ChatSS2.png)
